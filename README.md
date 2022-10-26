@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carocancode
-- 👀 I’m interested in Computer Science and coding 
+- 👀 I’m a Computer Science student at Oregon State University
 - 🌱 I’m currently learning JavaScript and python
-- 💞️ I’m looking to collaborate on website projects or new JavaScript projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me on twitter or instagram @ carocancode
 
 <!---
