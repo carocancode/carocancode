@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @carocancode
+- 👋 Hi, I’m Caro @carocancode
 - 👀 I’m a Computer Science student at Oregon State University
-- 🌱 I’m currently learning JavaScript and python
+  - 🌱 I’m currently learning Python & Javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me on twitter or instagram @ carocancode
 
