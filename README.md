@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caro @carocancode
+- 👋 Hi, I’m Carolina or Caro @carocancode
 - 👀 I’m a Computer Science student at Oregon State University
 - 🌱 I’m currently learning Python & Javascript
 - 💞️ I’m looking to collaborate on projects
