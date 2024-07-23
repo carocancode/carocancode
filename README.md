@@ -2,7 +2,7 @@
 - 👀 CS from Oregon State University
 - 🌱 Learning and uplaoding my projects
 - 💞️ I'm in search of swe opportunities
-- 📫 You can reach me on instagram @ carocancode
+- 📫 You can reach me on threads @ carocancode
 
 <!---
 carocancode/carocancode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
